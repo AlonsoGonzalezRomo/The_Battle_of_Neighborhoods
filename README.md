@@ -8,7 +8,7 @@ For this capstone project, which is named *The Battle of Neighborhoods*, I decid
 In this repository we will find the following sections:
 
 1) Description of the problem or idea.
-We will have a description of the main idea the the discussion of the backgroud.
+'\n'We will have a description of the main idea the the discussion of the backgroud.
 
 2) Description of the data.
 We will have a description of the data and how it will be used to solde the problem.
