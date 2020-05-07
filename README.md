@@ -7,11 +7,11 @@ For this capstone project, which is named **The Battle of Neighborhoods**, I dec
 
 In this repository we will find the following sections:
 
-**1) Description of the problem or idea:** we will have a description of the main idea the the discussion of the backgroud.
+**1) Description of the problem or idea:** we will have a description of the main idea and a discussion of the backgroud.
 
-**2) Description of the data:** we will have a description of the data and how it will be used to solde the problem.
+**2) Description of the data:** we will have a description of the data and how it will be used to solve the problem.
 
-**3) Jupyter Notebook:** we will have the code of the data.
+**3) Jupyter Notebook:** we will have the code of the data in a Jupyter Notebook.
 
 **4) Report:** we will have a report containing an Introduction, Description of the data, Methodology, Results, Discussions, and Conclusion.
   
