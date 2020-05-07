@@ -22,3 +22,5 @@ In this repository we will find the following sections:
 4) Report.
 
   We will have a report containing an Introduction, Description of the data, Methodology, Results, Discussions, and Conclusion.
+  
+  I hope you enjoy my work!
