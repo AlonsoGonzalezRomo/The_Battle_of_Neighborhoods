@@ -9,11 +9,11 @@ simply run a ‘wget’ command and access the data.
 
 After downloading this dataset, we will transform it into a pandas dataframe and use the geopy library to get the latitude and longitude
 values of New York City to create a map with its neighborhoods. Then, we will cluster and segment the neighborhoods in Brooklyn to find
-the first one for the analysis.
+the first neighborhood for the analysis.
 
-Being Bay Ridge the first neighborhood, we will create the GET request URL to find nearest venues. Also, we will determine which
-neighborhood in Brooklyn has more venues and we will group them as per category. Then, we will find the top 5 venues in Brooklyn
-in order to find insights.
+Being Bay Ridge the first neighborhood in Brooklyn, we will create the GET request URL to find the nearest venues. Also, we will
+determine which neighborhood in Brooklyn has more venues and we will group them as per category. Then, we will find the top 5 venues
+in Brooklyn in order to find insights.
 
 Toronto - Scarborough
 
@@ -28,11 +28,12 @@ After the mention procedure, we will use the geopy library to get the latitude a
 with its neighborhoods. Then, we will cluster and segment the neighborhoods in Scarborough to find the first postal code for the
 analysis.
 
-Being Malvern and Rouge the neighborhoods of the first postal code M1B, we will create the GET request URL to find nearest venues
-of this postal code. On the other hand, we will determine which neighborhood in Scarborough has more venues and we will group them
-as per category. Then, we will find the top 5 venues in Scarborough in order to find insights.
+Being Malvern and Rouge the neighborhoods of the first postal code M1B in Scarborough, we will create the GET request URL to find
+the nearest venues of this postal code. On the other hand, we will determine which neighborhood in Scarborough has more venues
+and we will group them as per category. Then, we will find the top 5 venues in Scarborough in order to find insights.
 
 Brooklyn vs Scarborough
+
 Finally, by means of the insights founds in Brooklyn and Scarborough, we will determine if we can open a new business in terms
 of the people needs.
 
